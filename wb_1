@@ -1,0 +1,1 @@
+{"docid":"index.rmarkdown","MC":[{"itemid":"index-question-1-1","w":"18"}],"Essays":[{"itemid":"index-essay-1","contents":"index-essay-1"}],"WebR":[{"itemid":"index-rchunk-rcd","contents":"slice_plot(sin(2*pi*t/5) ~ t, \n           domain(t = 0:20), color = \"blue\")"}],"R":[]}
